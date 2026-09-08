@@ -1,5 +1,5 @@
 {
-  "content_sha256": "78da79c97dea5cf4a7332cd00674ae6813439c6db3c989e8d5715927ff6e2e61",
+  "content_sha256": "17193c0a592e92d02b69ba4d1cbcf454d865028256df03c01fe09706ed6602af",
   "excluded_path_count": 0,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
@@ -54,7 +54,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "673d4065f0f28c29a12dd40a4a61e67cf2dbb96c45cd952e5849cfe4f1c0fa95",
+      "sha256": "a43e21558912f6f96f985a71d989eebee5c101296cb022a1831f93d38c40d732",
       "source_blob": null
     },
     {
@@ -67,13 +67,13 @@
       "source_blob": "0eb49ebdd36d9bd09404f9b3e7574e236b27b599"
     },
     {
-      "bytes": 374061,
+      "bytes": 376695,
       "mode": "100644",
       "path": "companion.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "7e522ebb9940d80daa7686223268e6cadc85f96565cce83daf0af66bf474985f",
-      "source_blob": "269b5c80bf9dd7d7da9f0ba4532e460b65ae82b8"
+      "sha256": "0dfcb1e47930df0c2580435abcf5b21b45146e8c02c544b6485598027b618117",
+      "source_blob": "44a890631c8aa76e61d4564251ef0d40ece910af"
     },
     {
       "bytes": 567,
@@ -112,22 +112,22 @@
       "source_blob": "146e6a6587da22de60826a3f1f608c7e1124a9e3"
     },
     {
-      "bytes": 4395,
+      "bytes": 4573,
       "mode": "100644",
       "path": "references.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "3c4739ccce80acb1e948d8ea66ded81e1561eae1b78f29bc9c1ccf9cf7392bbe",
-      "source_blob": "df40ef872e4783f4484b1064f6fcfcc41746a31c"
+      "sha256": "c8408b8c16d4a0aebc88652f3c1b436024274bf052cafc5027f883976d7fbe86",
+      "source_blob": "3cc82cb66c9a73549189a4908bbed3839afd8f84"
     },
     {
-      "bytes": 10516,
+      "bytes": 10970,
       "mode": "100644",
       "path": "sections/01-trades.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "f99b5921d4bad2ba19d4cc858251c7226aeb6a07e78d211c8c23cb1d9faa02a7",
-      "source_blob": "2cfd80167632528d4b2f2985964c9393c0a4eaab"
+      "sha256": "42cdb894e28fce15f22ea58662df8454e36f3ebeb299efc7ac69589b371e7c23",
+      "source_blob": "a8e48a1744d0c493573781e3a2bc892912809b94"
     },
     {
       "bytes": 7243,
@@ -139,13 +139,13 @@
       "source_blob": "80a2a4b0901a4192f29502a036f33318373bbf1d"
     },
     {
-      "bytes": 9556,
+      "bytes": 9814,
       "mode": "100644",
       "path": "sections/03-factory.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "3f0df5892fb747d4d4c2e5b715d87796fafd1fa3aad020cd52826d94f501b14f",
-      "source_blob": "a1f325428f780d04f2ca6045643a0a75a76cb635"
+      "sha256": "258bf1cc2fa338d5a48ff20ea64e3f2d02fa0a37cacdf54b932e2fba11caa8d6",
+      "source_blob": "1ea8c2771884281d060f9900aef6d5fef69be9d9"
     },
     {
       "bytes": 5797,
@@ -157,13 +157,13 @@
       "source_blob": "5d39b305fa559eb9550d150063f2f5f9481d1e80"
     },
     {
-      "bytes": 6052,
+      "bytes": 6242,
       "mode": "100644",
       "path": "sections/05-evidence.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "6f3b71b456891a569fb099af9f603e4c96cb1f689f6f22213a9829c871289323",
-      "source_blob": "0507fe5a2870cee766add1469bd4653e4dc48f71"
+      "sha256": "83c0140b77561cbe8bc98750780c05e8264f112d63d58222d85eebd4955f6e43",
+      "source_blob": "1f7c394d67320f1f093088aae67c5f04f67f7f9c"
     },
     {
       "bytes": 6471,
@@ -702,8 +702,8 @@
       "path": "supplement/factory/SHA256SUMS",
       "rewrites": [],
       "role": "support",
-      "sha256": "3e9d7d1d195a8c5b8b81cebbf52681d462bff9de8f876f4b99fdd32e781010bf",
-      "source_blob": "bb1df00d3433075d53daec9ac04bd64dd1b1f069"
+      "sha256": "2f16d5573d3e132f90ee9e799cfdcb1f94e465a33fd53ce49e45b56b9e9aa017",
+      "source_blob": "14e7712ce876b0882a73e472c6a713f69a595277"
     },
     {
       "bytes": 12283,
@@ -1089,8 +1089,8 @@
       "path": "verification/input-hashes.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "bb043f975e59a16bd8b2d2a4fbc2befd350cac4d5d7749bdc4bc17afc2262f67",
-      "source_blob": "28fbf3eb087d78f15b9338bb0355213c11cb7ee9"
+      "sha256": "ca70b74e215fd5d9bc4829e665f72662a8817807c84123e4e15484653ed48c89",
+      "source_blob": "f0bd13e5cd121cbd23c203cc6b6ff21fe4b0e171"
     },
     {
       "bytes": 863,
