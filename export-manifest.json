@@ -1,5 +1,5 @@
 {
-  "content_sha256": "90f48fc94b224a92aa80a38b14c03e5ecfb516a89f8c912d15026bead037973e",
+  "content_sha256": "820076aa634d1e3d8a777e80a9d1701d4df45d3d1279d8b871b7c40e1026af4a",
   "excluded_path_count": 0,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
@@ -54,7 +54,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "6e3017554a6efa0a3705eb8e7c24bebbe50c1768a6751e3dfb12a8ba664f95c4",
+      "sha256": "90aff9d0e79b3d28fc7098892da31b6c94a4d208c73ccc68042a9bb39d0fb6a2",
       "source_blob": null
     },
     {
@@ -67,13 +67,13 @@
       "source_blob": "eec33226f4e5bfe0a509174cd4b637c6d7696238"
     },
     {
-      "bytes": 376507,
+      "bytes": 376531,
       "mode": "100644",
       "path": "clebsch-cubic-phase.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "6f7e8bfbb31b1cf5c3a3e8547320c847f854644ab0482c34ac79fc3d0c2da1d4",
-      "source_blob": "feffe1e145c6fee9bff8b562c093d379f4888d81"
+      "sha256": "dff4986008e0c9fc77b6adb852e556110bffa7e52184857773b55fbc9e8f5b23",
+      "source_blob": "a93a7cb6f9c5948fdd7868e81227821034bf50ac"
     },
     {
       "bytes": 567,
@@ -112,13 +112,13 @@
       "source_blob": "2ac71dd0d4c7bf2a6a5f9e58df456b8fc183f399"
     },
     {
-      "bytes": 4573,
+      "bytes": 4562,
       "mode": "100644",
       "path": "references.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "c8408b8c16d4a0aebc88652f3c1b436024274bf052cafc5027f883976d7fbe86",
-      "source_blob": "3cc82cb66c9a73549189a4908bbed3839afd8f84"
+      "sha256": "0d2b6ae708675a3f46a1a03bd001122a3f732e1cf2f5031aa67029f0098cb5c6",
+      "source_blob": "9e996be1edab8e836d74b2e1315ab088ae7e63da"
     },
     {
       "bytes": 10970,
@@ -1075,13 +1075,13 @@
       "source_blob": "b158e0bd230d01268ba04ea9c485d97a39f3cf87"
     },
     {
-      "bytes": 18169,
+      "bytes": 18158,
       "mode": "100644",
       "path": "verification/imported-sources.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "6e55a209a873fd815d748ec7d916bcca8bcad16329ad1accec2174772258cd0c",
-      "source_blob": "2cc1264bf84dc6bc85b8f07c78b1cc99ac2469f0"
+      "sha256": "9275c16e6caeee3056fb1bcf374232af09b0a5c00f19860cff10b41f04379f3c",
+      "source_blob": "22021f36fb3471d464f8260ac5c62696449c5f24"
     },
     {
       "bytes": 14015,
