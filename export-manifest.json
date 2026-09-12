@@ -1,5 +1,5 @@
 {
-  "content_sha256": "84dbdbae4bd9f4ad548af3e0085a899ad703e83678c7e720b38dcbffba68c2b7",
+  "content_sha256": "90f48fc94b224a92aa80a38b14c03e5ecfb516a89f8c912d15026bead037973e",
   "excluded_path_count": 0,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
@@ -54,7 +54,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "0434188621a218bf5e29745fd138cf483b5444650076ec87caa0a36446bf869b",
+      "sha256": "6e3017554a6efa0a3705eb8e7c24bebbe50c1768a6751e3dfb12a8ba664f95c4",
       "source_blob": null
     },
     {
@@ -67,13 +67,13 @@
       "source_blob": "eec33226f4e5bfe0a509174cd4b637c6d7696238"
     },
     {
-      "bytes": 376951,
+      "bytes": 376507,
       "mode": "100644",
       "path": "clebsch-cubic-phase.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "26275761d89d3ad57b80d0b8300eb936710f116188318affd63ea4ca93556847",
-      "source_blob": "598d53197cb05b392e6df62105d64984de64787b"
+      "sha256": "6f7e8bfbb31b1cf5c3a3e8547320c847f854644ab0482c34ac79fc3d0c2da1d4",
+      "source_blob": "feffe1e145c6fee9bff8b562c093d379f4888d81"
     },
     {
       "bytes": 567,
@@ -103,13 +103,13 @@
       "source_blob": "1a9b30340f5f3de8a4e331c63812736209580723"
     },
     {
-      "bytes": 2258,
+      "bytes": 2251,
       "mode": "100644",
       "path": "main.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "fc29e4c7bd61a846cde99f942e8b9c87ae4be91b5fde9910f95a20c09a578665",
-      "source_blob": "7e2113e630feda68bef5ec35bcbefd7a5f05aa32"
+      "sha256": "31c9e9ef67f49d8ec802dc033abee521955d84a358bc5553cf13f0fca06196b3",
+      "source_blob": "2ac71dd0d4c7bf2a6a5f9e58df456b8fc183f399"
     },
     {
       "bytes": 4573,
