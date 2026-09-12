@@ -1,5 +1,5 @@
 {
-  "content_sha256": "3a376cbba536e005bdde436c9900189e3116b771b2abf426e344a0dc32316e19",
+  "content_sha256": "84dbdbae4bd9f4ad548af3e0085a899ad703e83678c7e720b38dcbffba68c2b7",
   "excluded_path_count": 0,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
@@ -19,8 +19,8 @@
       "path": ".zenodo.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "e3baab55923ea4fa2a3c4fd88f99887383740bf7262dc1aabea71f9b05f449dd",
-      "source_blob": "9a04906e269c2f30ac47e6be3c7220e0d9c286de"
+      "sha256": "51080b9d9df1d9db7c765550a42b181e401c7344fc7568f10e803c75a6abffe4",
+      "source_blob": "5cde68eb6e79eed68e4e347f4e00304a01af46a3"
     },
     {
       "bytes": 612,
@@ -28,8 +28,8 @@
       "path": "CITATION.cff",
       "rewrites": [],
       "role": "support",
-      "sha256": "d2cdb8857d959f21453e9fe7bfaedf7f7cbd3d2108fbb6510a4236c21b214c4c",
-      "source_blob": "c636d1ef1c708ab7513e42112517a2ea36c154a0"
+      "sha256": "eab838b62d993698344c859b2fe25f97a29d3bea74fdb855b3a1ee88ed79bda9",
+      "source_blob": "7033f5ef9a04a442d5c320244926f3bfd79982db"
     },
     {
       "bytes": 468,
@@ -41,39 +41,39 @@
       "source_blob": "babddebca0960e89b7801f8cfa2470cee5391cfb"
     },
     {
-      "bytes": 660,
+      "bytes": 670,
       "mode": "100644",
       "path": "Makefile",
       "rewrites": [],
       "role": "support",
-      "sha256": "05ad4aa6d870a4bf37e4c6acaf97ff9533efebd29458baf6627197ce3937429b",
-      "source_blob": "a77a29b3aa4c80c5abc6b7d26379e17958d94556"
+      "sha256": "8c3be3d348324289025d706cc7270a11aa1b2e3a92be10ab57c0b856fd208e88",
+      "source_blob": "c6d68420140a4b426c02322c66cfe60f4c4a9836"
     },
     {
       "bytes": 505,
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "caa04be878a88eba8b8a49f56775711f425a6570c728f2e5fb41470b6dce3b08",
+      "sha256": "0434188621a218bf5e29745fd138cf483b5444650076ec87caa0a36446bf869b",
       "source_blob": null
     },
     {
-      "bytes": 7182,
+      "bytes": 7204,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "fd0bfff9655d6521be2507b7a449fb9d28ada9453a45ab47d4ccb12ceff6a61a",
-      "source_blob": "e577add717bc47fa242022ddf3bf7e89e3e02a8a"
+      "sha256": "6262050b1b9c25d5aa8c36c836a4523bd9ac51bcd3df462880f2c484e6841aad",
+      "source_blob": "eec33226f4e5bfe0a509174cd4b637c6d7696238"
     },
     {
-      "bytes": 376695,
+      "bytes": 376951,
       "mode": "100644",
-      "path": "companion.pdf",
+      "path": "clebsch-cubic-phase.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "0dfcb1e47930df0c2580435abcf5b21b45146e8c02c544b6485598027b618117",
-      "source_blob": "44a890631c8aa76e61d4564251ef0d40ece910af"
+      "sha256": "26275761d89d3ad57b80d0b8300eb936710f116188318affd63ea4ca93556847",
+      "source_blob": "598d53197cb05b392e6df62105d64984de64787b"
     },
     {
       "bytes": 567,
@@ -108,8 +108,8 @@
       "path": "main.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "fff9d0bbcfe94b953a5b9ff4c020d0946408fd3957e8200ab801925df7ffe326",
-      "source_blob": "146e6a6587da22de60826a3f1f608c7e1124a9e3"
+      "sha256": "fc29e4c7bd61a846cde99f942e8b9c87ae4be91b5fde9910f95a20c09a578665",
+      "source_blob": "7e2113e630feda68bef5ec35bcbefd7a5f05aa32"
     },
     {
       "bytes": 4573,
@@ -157,13 +157,13 @@
       "source_blob": "5d39b305fa559eb9550d150063f2f5f9481d1e80"
     },
     {
-      "bytes": 6242,
+      "bytes": 6244,
       "mode": "100644",
       "path": "sections/05-evidence.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "83c0140b77561cbe8bc98750780c05e8264f112d63d58222d85eebd4955f6e43",
-      "source_blob": "1f7c394d67320f1f093088aae67c5f04f67f7f9c"
+      "sha256": "7f1ad87b5bb855d5c79b90c05dab44e7541b562ec7e3a24f7582acada2897e2c",
+      "source_blob": "d355a791ad42a76cfd39f5e87db9b4afffcb8868"
     },
     {
       "bytes": 6471,
@@ -985,13 +985,13 @@
       "source_blob": "d6f11baed46234c7d8cb9a9deb30dd9408f1a31b"
     },
     {
-      "bytes": 3338,
+      "bytes": 3348,
       "mode": "100644",
       "path": "verification/README.md",
       "rewrites": [],
       "role": "verification",
-      "sha256": "233f170032a256e7a668acd6a4e7c904cb0b24ffa5b0babd36401e6ba0b48c72",
-      "source_blob": "543456fe46e9013dad6684613f0a7da66325e49b"
+      "sha256": "3e43549e4d01347de3ba2ccaf575fa4e69b4e604a5a63deee3531a158adddf53",
+      "source_blob": "9298172733a2b27b1f9d37abcd3f5961f842159d"
     },
     {
       "bytes": 6444,
@@ -1012,13 +1012,13 @@
       "source_blob": "7912ccb8dd0faf871f05947281c75d3302d2562c"
     },
     {
-      "bytes": 1410,
+      "bytes": 1430,
       "mode": "100644",
       "path": "verification/check_pdf.py",
       "rewrites": [],
       "role": "verification",
-      "sha256": "e931e0a3d8580bb3ca7f69edb7c8448bad8f25811cd7e26af101a3db43fd66cc",
-      "source_blob": "59760a74edbe5a3d96a4166f4fd9b780a18b3be2"
+      "sha256": "c138f764efffe280ca5a6932b69f8d55c5360aef3e2d499383380f9fbe7f6ff6",
+      "source_blob": "d306deaafc4c5e13fb2fdee995f11294eddb7efa"
     },
     {
       "bytes": 10608,
@@ -1098,17 +1098,17 @@
       "path": "verification/local-hashes.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "2adf97e34cf32943f485dda55121d09fd4de82c1a2f39ebfe20ea2bcb1421c30",
-      "source_blob": "93a18ae95acec5ced432150da4e98774abecff22"
+      "sha256": "ee881f99b8f8cdf3b4fa483084fea0feeed44d6bc8fb17925638c0441c3851a9",
+      "source_blob": "056cd2c10f3a908577bf1e3a15c2d155526511e8"
     },
     {
-      "bytes": 5253,
+      "bytes": 5263,
       "mode": "100644",
       "path": "verification/package-files.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "e1b513896d4e5c6d09865831542185979e51725f2621a2aa7ddd6e3a1216f24c",
-      "source_blob": "0091060736aa34378b69a865c733d35d519d038e"
+      "sha256": "922f376559add826863a037b5e1df01469eadc45822e7b0b92ede4fc5d9e11e2",
+      "source_blob": "31049f7ca395fa139a1e186045db4b2a2679de5f"
     },
     {
       "bytes": 450,
